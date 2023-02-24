@@ -2,7 +2,7 @@
 
 Desafio consiste em "dockerizar" uma aplicação Go
 
-Execute o comando "docker build -t seu-user/fullcycle"
+Execute o comando "docker build -t seu-user/fullcycle ."
 
 Acesse http://localhost:8081/
 
